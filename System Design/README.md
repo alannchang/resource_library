@@ -1,1 +1,3 @@
-Will add stuff later
+- ByteByteGo System Design (too big to upload to Github): https://blog.bytebytego.com/p/free-system-design-pdf-158-pages
+- Jordan has no life YouTube channel: https://www.youtube.com/@jordanhasnolife5163/playlists
+- Jordan has no life Substack (for slides): https://jordanhasnolife.substack.com/
