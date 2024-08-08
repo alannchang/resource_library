@@ -1,1 +1,10 @@
-Steam game where you can invent, build, code, and customize electrifying gadgets to share them with the world. https://www.retrogadgets.game/ca
+- General
+  - [Hackster](https://www.hackster.io/) - popular site for hardware projects, great for sharing or finding new projects
+- Arduino
+  - [Arduino Docs](https://docs.arduino.cc/) - comprehensive resource that's complete with everything you need to know about Arduino
+  - [Arduino Project Hub](https://projecthub.arduino.cc/) - huge collection of Arduino projects
+  - [Tinkercad](http://tinkercad.com/) - free online platform you can use to build and test out your Arduino circuits (only Uno R3)
+  - [Wokwi](https://wokwi.com/arduino) - another online simulator but more boards and stuff
+  - [Circuitoio](http://circuito.io/) - like Tinkercad and Wokwi but automatically connects components for you
+- Raspberry Pi
+- ESP32
