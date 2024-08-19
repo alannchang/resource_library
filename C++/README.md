@@ -1,3 +1,4 @@
 - General
   - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - set of guidelines for using C++ well and effectively
+  - [Learn C++](https://www.learncpp.com/) - amazing free website devoted to teaching C++
   - [C++ reference](https://en.cppreference.com/) - complete online reference for the C and C++ languages and standard libraries
