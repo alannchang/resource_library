@@ -1,5 +1,7 @@
 - Websites
-  - [Neetcode.io](https://neetcode.io/) - a better way to prepare for technical interviews 
+  - [Leetcode](https://leetcode.com/)
+  - [Neetcode.io](https://neetcode.io/) - a better way to prepare for technical interviews
+  - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - data structure visualizations from UCSF
+  - [Visual Go](https://visualgo.net/en) - another visualization tool
 - Books
   - The Algorithm Design Manual by Steven S. Skiena https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM
-- 
