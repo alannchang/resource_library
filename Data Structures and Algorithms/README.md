@@ -1,6 +1,7 @@
 - Websites
   - [Leetcode](https://leetcode.com/)
-  - [Neetcode.io](https://neetcode.io/) - a better way to prepare for technical interviews
+  - [Neetcode.io](https://neetcode.io/) - "a better way to prepare for technical interviews"
+  - [AlgoMonster](https://algo.monster/) - "the most structured way to prepare for coding interviews"
   - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - data structure visualizations from UCSF
   - [Visual Go](https://visualgo.net/en) - another visualization tool
 - Books
