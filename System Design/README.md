@@ -1,4 +1,4 @@
-- [ByteByteGo](https://bytebytego.com/) System Design (too big to upload to Github): https://blog.bytebytego.com/p/free-system-design-pdf-158-pages
+- [ByteByteGo](https://bytebytego.com/) System Design interview prep using step-by-step guides and detailed illustrations 
 - [Level Up Coding](https://blog.levelupcoding.com/) - similar to ByteByteGo
 - Jordan has no life YouTube channel: https://www.youtube.com/@jordanhasnolife5163/playlists
 - Jordan has no life Substack (for slides): https://jordanhasnolife.substack.com/
